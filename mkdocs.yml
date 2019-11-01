@@ -1,0 +1,17 @@
+site_name: XMUX Help
+
+repo_url: https://github.com/X-dea/XMUX
+site_description: XMUX Help Center
+copyright: Copytight © 2019 XMUX Project. All rights reserved.
+
+nav:
+  - Home: index.md
+  - App:
+      - Get Started: app/get-started.md
+      - Online Attendance: app/online-attendance.md
+
+theme:
+  name: material
+
+markdown_extensions:
+  - admonition
