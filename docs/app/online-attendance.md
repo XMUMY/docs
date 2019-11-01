@@ -33,7 +33,7 @@ Press the card to check attendance for one class. You can also check attendance 
 
 |  Staus  |  Explanation  |
 |  -----  |  -----------  |
-| Marked  | Your attendance has been submited and is waiting for checking. |
+| Waiting | Your attendance has been submited and is waiting for checking. |
 | Success | Your attendacce has been accepted. |
 | Failed  | Sign in failed. |
 

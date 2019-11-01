@@ -1,0 +1,17 @@
+stages:
+  - build
+  - deploy
+
+build:
+  stage: build
+  tags:
+    - xmux
+  image: python:3-alpine
+  before_script:
+    - pip install mkdocs mkdocs-material
+  script:
+    - mkdocs build
+  artifacts:
+    expire_in: 1 hour
+    paths:
+      - ./site
