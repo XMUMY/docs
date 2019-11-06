@@ -9,6 +9,8 @@ nav:
   - App:
       - Get Started: app/get-started.md
       - Online Attendance: app/online-attendance.md
+  - Developer:
+      - CLA: dev/cla.md
 
 theme:
   name: material

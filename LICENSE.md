@@ -1,1 +1,1 @@
-Copyright © 2019 XMUX Team. All right reserved.
+Copyright (C) 2019 XMUX Project. All rights reserved.
