@@ -6,7 +6,7 @@ copyright: Copytight © 2019 XMUX Project. All rights reserved.
 
 nav:
   - Home: index.md
-  - App:
+  - Application:
       - Get Started: app/get-started.md
       - Online Attendance: app/online-attendance.md
   - Developer:
@@ -14,6 +14,8 @@ nav:
 
 theme:
   name: material
+  feature:
+    tabs: true
 
 markdown_extensions:
   - admonition
