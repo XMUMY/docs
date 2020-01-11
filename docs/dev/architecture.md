@@ -1,6 +1,6 @@
 # Architecture
 
-Here is a overview of XMUX project.
+Here is an overview of XMUX project.
 
 ## Cluster Architecture
 
@@ -14,6 +14,12 @@ Generally, the cluster can be splited into 4 layers. (from buttom to top)
 
 - Application Fondations provide a set of neccessary services that applications rely on. [Prometheus](https://prometheus.io/) is a monitoring system that collect metrics from all other services and alert cluster manager if some error occured. [PostgreSQL](https://www.postgresql.org/) and [MongoDB](https://www.mongodb.com) are different kind of databases for applications to store and query data efficiently.
 
-- Applications layer is the layer for regular applications. Micros is a set of micro services that drive the XMUX project. The new API(V3) is written with Golang by using [Kratos framework](https://github.com/bilibili/kratos) while the old API(v2) is written with Node.JS. Dashboards provide a user-friendly interface for monitoring and controlling the cluster. The CI/CD runners also running in the cluster thus they can communicate with other applications easily for testing.
+- Applications layer is the layer for regular applications. Micros is a set of micro services that drive the XMUX project. The new API(v3) is written with Golang by using [Kratos framework](https://github.com/bilibili/kratos) while the old API(v2) is written with Node.JS. Dashboards provide a user-friendly interface for monitoring and controlling the cluster. The CI/CD runners also running in the cluster thus they can communicate with other applications easily for testing.
 
 - On top is the load balancer. [Nginx](https://www.nginx.com/) reverse proxy server can deliver user requests to different services by their path, which make the cluster can be easily extended according to the load of each service.
+
+## Client Architecture
+
+![Flutter](https://www.donnfelker.com/wp-content/uploads/2019/05/flutter-arch.png)
+
+XMUX client is powered by [Flutter](https://flutter.dev), which is a UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Currently XMUX client can be run on Android, iOS and web(Alpha).
