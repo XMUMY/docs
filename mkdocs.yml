@@ -9,9 +9,11 @@ nav:
   - Application:
       - Get Started: app/get-started.md
       - Online Attendance: app/online-attendance.md
+  - Campus:
+      - About: campus/about.md
   - Developer:
-      - Architecture: dev/architecture.md
-      - CLA: dev/cla.md
+      - Architecture: developer/architecture.md
+      - CLA: developer/cla.md
 
 theme:
   name: material
