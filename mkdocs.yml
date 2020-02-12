@@ -14,6 +14,7 @@ nav:
   - Developer:
       - Architecture: developer/architecture.md
       - CLA: developer/cla.md
+      - Contributors: developer/contributors.md
 
 theme:
   name: material
