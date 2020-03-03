@@ -14,8 +14,11 @@ nav:
       - About: campus/about.md
   - Developer:
       - Architecture: developer/architecture.md
-      - CLA: developer/cla.md
       - Contributors: developer/contributors.md
+      - CLA: developer/cla.md
+      - Documents:
+          - Get Started: developer/docs/get-started.md
+          - Structure: developer/docs/structure.md
 
 theme:
   name: material
@@ -24,3 +27,4 @@ theme:
 
 markdown_extensions:
   - admonition
+  - codehilite
