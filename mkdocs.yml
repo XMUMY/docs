@@ -19,6 +19,8 @@ nav:
       - Documents:
           - Get Started: developer/docs/get-started.md
           - Structure: developer/docs/structure.md
+      - Website:
+          - Get Started: developer/website/get-started.md
 
 theme:
   name: material

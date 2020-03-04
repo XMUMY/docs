@@ -3,7 +3,6 @@
 ## Academic
 
 ### [Academic Affair Online](https://ac.xmu.edu.my)
-
 ### [Moodle](https://l.xmu.edu.my)
 
 ## E-Payment
