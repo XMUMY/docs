@@ -26,13 +26,13 @@ XMUX Help Center is powered by [mkdocs](https://www.mkdocs.org/) with its themes
 
 3. Clone repository of documents.
 
-    ```
+    ```bash
     git clone https://github.com/XMUMY/docs
     ```
 
 4. Start a local server.
 
-    ```
+    ```bash
     cd docs
     mkdocs serve
     ```
