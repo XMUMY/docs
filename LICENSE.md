@@ -1,4 +1,4 @@
-Copyright (C) 2019-2020 XMUX Project.
+Copyright (C) 2019-2020 XMUX Authors.
 
 Contents of document are licensed under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 

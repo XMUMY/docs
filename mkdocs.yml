@@ -2,13 +2,14 @@ site_name: XMUX Help
 
 repo_url: https://github.com/XMUMY/docs
 site_description: XMUX Help Center
-copyright: Copytight © 2019-2020 XMUX Project. Contents are licensed under CC-BY-NC-SA 4.0.
+copyright: Copytight © 2019-2020 XMUX Authors. Contents are licensed under CC-BY-NC-SA 4.0.
 
 nav:
   - Home: index.md
   - Application:
       - Get Started: app/get-started.md
       - Online Attendance: app/online-attendance.md
+      - Privacy: app/privacy.md
   - Campus:
       - Links: campus/links.md
       - About: campus/about.md
