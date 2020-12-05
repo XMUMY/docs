@@ -1,6 +1,7 @@
 site_name: XMUX Help
 
-repo_url: https://github.com/XMUMY/docs
+repo_url: https://github.com/XMUMY/XMUX
+edit_uri: https://github.com/XMUMY/docs/tree/master/docs
 site_description: XMUX Help Center
 copyright: Copytight © 2019-2020 XMUX Authors. Contents are licensed under CC-BY-NC-SA 4.0.
 
@@ -26,8 +27,9 @@ nav:
 theme:
   name: material
   features:
-    - tabs
+    - navigation.tabs
 
 markdown_extensions:
   - admonition
-  - codehilite
+  - pymdownx.highlight
+  - pymdownx.superfences

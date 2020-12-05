@@ -16,4 +16,4 @@ nav:
 
 ## Format
 
-The format of markdown that used in documents is extended by serveral plugins to present more acceptable document. Visit [documents of extensions](https://squidfunk.github.io/mkdocs-material/extensions/admonition/) for more information.
+The format of markdown that used in documents is extended by serveral plugins to present more acceptable document. Visit [documents of extensions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/) for more information.

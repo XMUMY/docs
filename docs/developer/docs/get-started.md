@@ -36,3 +36,5 @@ XMUX Help Center is powered by [mkdocs](https://www.mkdocs.org/) with its themes
     cd docs
     mkdocs serve
     ```
+
+    The document website should be able for visiting through [http://127.0.0.1:8000](http://127.0.0.1:8000)
