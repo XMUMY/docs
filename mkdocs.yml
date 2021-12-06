@@ -6,30 +6,31 @@ site_description: XMUX Help Center
 copyright: Copytight © 2019-2020 XMUX Authors. Contents are licensed under CC-BY-NC-SA 4.0.
 
 nav:
-  - Home: index.md
-  - Application:
-      - Get Started: app/get-started.md
-      - Online Attendance: app/online-attendance.md
-      - Privacy: app/privacy.md
-  - Campus:
-      - Links: campus/links.md
-      - About: campus/about.md
-  - Developer:
-      - Architecture: developer/architecture.md
-      - Contributors: developer/contributors.md
-      - CLA: developer/cla.md
-      - Documents:
-          - Get Started: developer/docs/get-started.md
-          - Structure: developer/docs/structure.md
-      - Website:
-          - Get Started: developer/website/get-started.md
+    - Home: index.md
+    - Application:
+          - Get Started: app/get-started.md
+          - Online Attendance: app/online-attendance.md
+          - Privacy: app/privacy.md
+          - About: app/about.md
+    - Campus:
+          - Links: campus/links.md
+          - About: campus/about.md
+    - Developer:
+          - Architecture: developer/architecture.md
+          - Contributors: developer/contributors.md
+          - CLA: developer/cla.md
+          - Documents:
+                - Get Started: developer/docs/get-started.md
+                - Structure: developer/docs/structure.md
+          - Website:
+                - Get Started: developer/website/get-started.md
 
 theme:
-  name: material
-  features:
-    - navigation.tabs
+    name: material
+    features:
+        - navigation.tabs
 
 markdown_extensions:
-  - admonition
-  - pymdownx.highlight
-  - pymdownx.superfences
+    - admonition
+    - pymdownx.highlight
+    - pymdownx.superfences

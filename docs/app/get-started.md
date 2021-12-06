@@ -2,7 +2,7 @@
 
 ## Installation
 
-XMUX application now support `Android`, `iOS`, `Web`, `macOS` and `Universal Windows` platform. Please follow the steps to download the app.
+XMUX application now support `Android`, `iOS`, `Web`, `macOS` and `Windows` platform. Please follow the steps to download the app.
 
 ### Android
 
@@ -31,17 +31,9 @@ For iOS devices, you can search `XMUX` through App Store or [click here](https:/
 
 The support for macOS is still under alpha and some functions may not work properly. [Join our testing group](https://shang.qq.com/wpa/qunwpa?idkey=f07eb500a50900e4b475abc17ceeda9fb648cd7a57110a2710e14cbe6601ec2f) to get early access.
 
-### Universal Windows Platform
+### Windows
 
-!!! warning
-
-    XMUX App for UWP is not maintenanced by XMUX Team currently. We are not responsible for any issue when using UWP client.
-
-For Windows 10 devices, you can search `XMUX` through Microsoft Store or [click here](ms-windows-store://pdp/?productid=9N3MTXT08TV2) to install it.
-
-!!! note
-
-    - XMUX only supports Windows 10 1607 (Anniversary Update) or later builds
+The support for Windows is still under alpha and some functions may not work properly. [Join our testing group](https://shang.qq.com/wpa/qunwpa?idkey=f07eb500a50900e4b475abc17ceeda9fb648cd7a57110a2710e14cbe6601ec2f) to get early access.
 
 ## Sign in
 
