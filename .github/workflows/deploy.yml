@@ -17,7 +17,7 @@ jobs:
       - name: Build
         run: python3 -m mkdocs build
       - name: Upload Artifacts
-        uses: actions/upload-artifact@v1.0.0
+        uses: actions/upload-artifact@v2
         with:
           name: Website
           path: site
@@ -27,11 +27,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Download artifact
-        uses: actions/download-artifact@v1.0.0
+        uses: actions/download-artifact@v2
         with:
           name: Website
+          path: Website
       - name: Deploy to Firebase
-        uses: w9jds/firebase-action@v1.3.0
+        uses: w9jds/firebase-action@v2.0.0
         with:
           args: deploy --only hosting:xmux-docs
         env:
