@@ -20,6 +20,6 @@ Generally, the cluster can be splited into 4 layers. (from buttom to top)
 
 ## Client Architecture
 
-![Flutter](https://www.donnfelker.com/wp-content/uploads/2019/05/flutter-arch.png)
+![Flutter](https://docs.flutter.dev/assets/images/docs/arch-overview/archdiagram.png)
 
-XMUX client is powered by [Flutter](https://flutter.dev), which is a UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Currently XMUX client can be run on Android, iOS and web(Alpha).
+XMUX client is powered by [Flutter](https://flutter.dev), which is a UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Currently XMUX client can be run on Android, iOS, web, macOS and Windows.

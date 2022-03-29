@@ -11,8 +11,7 @@ For Android devices, you can get the app easily from [Google Play](https://play.
 !!! note
 
      - XMUX only supports Android 4.1+
-     - XMUX android app depends on Google Mobile Service. Please make sure that your phone has GMS installed before login.
-     - Some functions of XMUX android app require access to Google Services. At least you should have access to Google Serivces when first login.
+     - Some functions of XMUX android app require access to Google Services.
 
 ### iOS
 
@@ -21,7 +20,7 @@ For iOS devices, you can search `XMUX` through App Store or [click here](https:/
 !!! note
 
     - XMUX only supports iOS 9.0+
-    - Some functions of XMUX android app require access to Google Services. At least you should have access to Google Serivces when first login.
+    - Some functions of XMUX android app require access to Google Services.
 
 ### Web / PWA
 

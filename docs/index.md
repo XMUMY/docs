@@ -5,5 +5,5 @@
 
 ## For Developers
 
-- [Source code for XMUX app](https://github.com/X-dea/XMUX)
+- [Source code for XMUX app](https://github.com/XMUMY/XMUX)
 - [Contribute to this document](https://github.com/XMUMY/docs)
