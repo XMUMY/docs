@@ -6,11 +6,11 @@ XMUX application now support `Android`, `iOS`, `Web`, `macOS` and `Windows` plat
 
 ### Android
 
-For Android devices, you can get the app easily from [Google Play](https://play.google.com/store/apps/details?id=org.ctbeta.xmux.xmux) and [Xiaomi Market](http://app.mi.com/details?id=org.ctbeta.xmux.xmux).
+For Android devices, you can get the app easily from [Google Play](https://play.google.com/store/apps/details?id=org.ctbeta.xmux.xmux) or download APK directly from [website](https://xmux.xdea.io).
 
 !!! note
 
-     - XMUX only supports Android 4.1+
+     - XMUX only supports Android 5.0+
      - Some functions of XMUX android app require access to Google Services.
 
 ### iOS
