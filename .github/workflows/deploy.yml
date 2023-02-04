@@ -32,9 +32,9 @@ jobs:
           name: Website
           path: Website
       - name: Deploy to Firebase
-        uses: w9jds/firebase-action@v2.0.0
+        uses: w9jds/firebase-action@v11.22.0
         with:
           args: deploy --only hosting:xmux-docs
         env:
           PROJECT_ID: xmux-app
-          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
