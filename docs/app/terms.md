@@ -64,9 +64,9 @@ You may create or upload User-Generated Content while using the Service. You are
 
 ### 2. XMUX May Remove Content
 
-We have the right to refuse or remove any User-Generated Content that, in our sole discretion, violates any laws. User-Generated Content displayed on XMUX mobile app may be subject to mobile app stores' additional terms.
+We have the right to refuse or remove any User-Generated Content that, in our sole discretion, violates any laws (Examples include child pornography, content that facilitates human trafficking or harassment, terrorist content, and content that infringes someone else’s intellectual property rights). User-Generated Content displayed on XMUX mobile app may be subject to mobile app stores' additional terms.
 
-我们有权自行决定拒绝或删除我们认为违反了任何法律的任何用户生成内容。 XMUX 手机应用上显示的用户生成内容可能受移动应用商店附加条款的约束。
+我们有权自行决定拒绝或删除我们认为违反了任何法律的任何用户生成内容（例如儿童色情内容、宣传贩卖人口或骚扰行为的内容、恐怖主义内容，以及侵犯他人知识产权的内容）。 XMUX 手机应用上显示的用户生成内容可能受移动应用商店附加条款的约束。
 
 ### 3. Ownership of Content, Right to Post
 
