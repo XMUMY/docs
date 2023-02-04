@@ -22,7 +22,7 @@ XMUX Help Center is powered by [mkdocs](https://www.mkdocs.org/) with its themes
     - mkdocs-material
     - pygments
 
-    Which usually can be done by `pip3 install mkdocs mkdocs-material pygments`
+    Which usually can be done by `pip3 install mkdocs mkdocs-material pygments` or `conda install -c conda-forge mkdocs mkdocs-material` if you are using conda.
 
 3. Clone repository of documents.
 

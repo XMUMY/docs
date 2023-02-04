@@ -1,9 +1,9 @@
 site_name: XMUX Help
+site_description: XMUX Help Center
 
 repo_url: https://github.com/XMUMY/XMUX
 edit_uri: https://github.com/XMUMY/docs/tree/master/docs
-site_description: XMUX Help Center
-copyright: Copytight © 2019-2022 XMUX Authors. Contents are licensed under CC-BY-NC-SA 4.0.
+copyright: Copytight © 2019-2023 XMUX Authors. Contents are licensed under CC-BY-NC-SA 4.0.
 
 nav:
     - Home: index.md
@@ -12,6 +12,7 @@ nav:
           - Online Attendance: app/online-attendance.md
           - Changelog:
                 - 3.2.0: app/changelog/3.2.0.md
+          - Terms of Service: app/terms.md
           - Privacy: app/privacy.md
           - About: app/about.md
     - Campus:
